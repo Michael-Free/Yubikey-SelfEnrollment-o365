@@ -1,7 +1,7 @@
 # Self-Enrollment & Registration of Yubikey Device for O365 (End-Users)
 
 1.	Go to https://myprofile.microsoft.com/ and sign in if request.
-2.	Click on Security Info in the centre of the dashboard OR on the left-hand side-menu. <br> <img src="/images/step-02.png">
+2.	Click on Security Info in the centre of the dashboard OR on the left-hand side-menu. <br> <img src="/images/step_02.png">
 3.	After the page loads, click on “Add Method” in the top left corner:
 4.	Select Security Key from the Pull Down Menu
 5.	Click the Add Button.
